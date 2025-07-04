@@ -36,6 +36,16 @@ The project involves various analysis tasks, including;
  
 ### Insights and Recommendation 
 
-The analysis provides insights into product performance, customer engagement, and market trends. The findings can be used to inform product improvement, marketing strategies, and customer engagement initiatives
+The analysis provides insights into product performance, customer engagement, and market trends. The findings can be used to inform product improvement, marketing strategies, and customer engagement initiatives.
+
+### My Analysis
+
+
+
+![a45283d7-c6aa-419b-82e7-b2f57a95a70a](https://github.com/user-attachments/assets/5a671338-010d-4e2d-9ba0-c71201928e35)
+
+
+
+![c06d4e09-bf8a-482a-94ce-c6475c135de5](https://github.com/user-attachments/assets/2dff918b-0b36-4fa7-ba4f-1a8434e4aa67)
 
 
