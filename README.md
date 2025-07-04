@@ -28,9 +28,11 @@ The project involves various analysis tasks, including;
 
   ### Tools Used
 
-  * Excel
-  * Pivot Tables
-  * Calculated Columns
+  - Ms Excel [Download Here](https://www.microsoft.com)
+  - Pivot Tables
+  - Calculated Columns
+
+
  
 ### Insights and Recommendation 
 
