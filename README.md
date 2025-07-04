@@ -46,6 +46,6 @@ The analysis provides insights into product performance, customer engagement, an
 
 
 
-![c06d4e09-bf8a-482a-94ce-c6475c135de5](https://github.com/user-attachments/assets/2dff918b-0b36-4fa7-ba4f-1a8434e4aa67)
+
 
 
